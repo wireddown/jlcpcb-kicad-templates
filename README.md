@@ -33,3 +33,19 @@ This repo contains KiCad templates for manufacturing PCBs with JLCPCB.
   },
   ```
 
+## Usage
+
+- Download or clone this repo
+
+### From a new project
+
+1. Open KiCad
+1. Select the [**File → New Project from Template**](https://docs.kicad.org/8.0/en/kicad/kicad.html#using_templates) menu command
+1. Set the source folder to match your download or clone
+
+### Apply to an existing project
+
+1. Open your PCB design
+1. Open the PCB Editor's **Board Setup** dialog
+1. Click the [**Import Settings from Another Board**](https://docs.kicad.org/8.0/en/pcbnew/pcbnew.html#importing_settings) button
+1. Set the source folder to match your download or clone
