@@ -10,7 +10,7 @@ This repo contains KiCad templates for manufacturing PCBs with JLCPCB.
 ## Template list
 
 - [2-layer](./2-layer/)
-  ```
+  ```javascript
   "rules": {
     "max_error": 0.005,
     "min_clearance": 0.1,
