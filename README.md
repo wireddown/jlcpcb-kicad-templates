@@ -26,8 +26,8 @@ This repo contains KiCad templates for manufacturing PCBs with JLCPCB.
     "min_text_thickness": 0.153,
     "min_through_hole_diameter": 0.3,
     "min_track_width": 0.1,
-    "min_via_annular_width": 0.25,
-    "min_via_diameter": 0.5,
+    "min_via_annular_width": 0.05,
+    "min_via_diameter": 0.25,
     "solder_mask_to_copper_clearance": 0.0,
     "use_height_for_length_calcs": true
   },
